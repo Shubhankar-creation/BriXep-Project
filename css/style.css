@@ -1007,7 +1007,7 @@ input[type="text"]{
       font-weight: bolder;
       font-family: Open Sans;
       text-align: center;
-      font-size: 5.8vw;
+      font-size: 4.8vw;
   }
   #navbarNav{
     float: right;
@@ -1018,7 +1018,7 @@ input[type="text"]{
       margin-left: auto;
       margin-right: auto;
       margin-top: 1vw;
-      font-size: 3.4vw;
+      font-size: 3vw;
       font-weight: bolder;
       font-family: Open Sans;
       text-align: center;
@@ -1231,6 +1231,10 @@ input[type="text"]{
   
   #mobilehdn{
       display: initial;
+    }
+  
+  .socialicon{
+      text-align: center;
     }
 
 
@@ -1448,9 +1452,7 @@ div.block{
     border-radius: 20px;
     padding: 15px;
   }
-.carousel-indicators{
-  display: hidden !important;
-}
+
 
 @media screen and (max-width: 800px )
 {
